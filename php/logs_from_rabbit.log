@@ -1,3 +1,6 @@
  [*] Waiting for logs. To exit press CTRL+C
- [x] info: Hello World!
- [x] info: Write to the log yooo!
+ [x] error:Run. Run. Or it will explode.
+ [x] error:someone died. woops
+ [x] error:someone died. woops
+ [x] warning:someone died. woops
+ [x] warning:all your bases are belong to us
